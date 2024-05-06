@@ -1,0 +1,7 @@
+** Null vs Undefined **
+- Both represent a lack of value
+- Null is an intentional lack of value
+- Undefined is not an intentional lack of value
+
+Why would we want to assign something as null?
+- E.g. Resetting a form means we want to clear it, so let's set something to null (e.g. an input field)
